@@ -1,4 +1,4 @@
-package LeetCode.Solved;
+package LeetCode.Solved.Easy;
 
 import java.util.List;
 

@@ -1,9 +1,13 @@
-import LeetCode.Solved.Task3151;
+import LeetCode.Solved.Easy.Task2974;
+
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] input = new int[] {4,3,1,6};
 
-        System.out.println(Task3151.isArraySpecial(input));
+        int[] input1 = new int[] {2,5};
+
+        System.out.println(Arrays.toString(Task2974.numberGame(input1)));
+
     }
 }

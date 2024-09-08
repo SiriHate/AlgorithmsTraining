@@ -1,4 +1,4 @@
-package LeetCode.Solved;
+package LeetCode.Solved.Easy;
 
 public class Task3151 {
     public static boolean isArraySpecial(int[] nums) {

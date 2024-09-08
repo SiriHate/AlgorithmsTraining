@@ -1,4 +1,4 @@
-package LeetCode.Solved;
+package LeetCode.Solved.Easy;
 
 public class Task3099 {
     public static int sumOfTheDigitsOfHarshadNumber(int x) {
